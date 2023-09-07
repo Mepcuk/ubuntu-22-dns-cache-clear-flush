@@ -1,0 +1,5 @@
+# Clear DNS cache
+resolvectl flush-caches
+
+# Check DNS statistics
+ resolvectl statistics
