@@ -1,7 +1,7 @@
 # ubuntu-22-dns-cache-clear-flush
 
 # Clear DNS cache
-``resolvectl flush-caches``
+```resolvectl flush-caches```
 
 # Check DNS statistics
- ``resolvectl statistics``
+```resolvectl statistics```
